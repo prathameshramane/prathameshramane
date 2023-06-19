@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://prathameshramane.com)
+[![MasterHead](https://github.com/prathameshramane/prathameshramane/blob/main/LinkedInBanner-2000x500.jpg?raw=true)](https://prathameshramane.com)
 <h1 align="center">Hi 👋, I'm Prathamesh Ramane</h1>
 <h3 align="center">Exploring, Innovating, and Never Standing Still</h3>
 
