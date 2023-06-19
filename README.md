@@ -1,8 +1,8 @@
-[![MasterHead]()](https://prathameshramane.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://prathameshramane.com)
 <h1 align="center">Hi 👋, I'm Prathamesh Ramane</h1>
 <h3 align="center">Exploring, Innovating, and Never Standing Still</h3>
 
-<img align="right" alt="Coding" width="400" src=""/>
+<img align="right" alt="Coding" width="300" src="https://github.com/prathameshramane/prathameshramane/blob/main/avataaars.png?raw=true"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshramane&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshramane" /> </p>
 
